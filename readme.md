@@ -3,7 +3,7 @@
 
 My name is __David Acosta__, I am 20 years old from __Sonora, México__.  
 
-I'm currently a software engineer student at [Instituto Tecnológico de Sonora](https://www.itson.mx/). I speak __Spanish__ and __English__. My main skills are __Backend Development__ and a little bit of __DevOps/SysAdmin__.
+I'm currently a software engineer student at [Instituto Tecnológico de Sonora](https://www.itson.mx/). I speak __Spanish__. My main skills are __Backend Development__.
 
 You can ping me on these social networks:  
 [![](https://img.shields.io/badge/-David_Acosta-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-acosta-fajardo/)
