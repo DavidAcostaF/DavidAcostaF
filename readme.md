@@ -40,6 +40,7 @@ You can ping me on these social networks:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DjangoNinja](https://img.shields.io/badge/DJANGO-NINJA-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Jinja](https://img.shields.io/badge/Jinja-white.svg?style=flat-square&logo=jinja&logoColor=black)
+![Springboot](https://img.shields.io/badge/Springboot-ffffff?style=flat-square&logo=springboot)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ##### (Left are the most used)
