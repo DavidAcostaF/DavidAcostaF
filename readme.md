@@ -11,6 +11,9 @@ You can ping me on these social networks:
 
 ## Technologies
 
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 ### Databases
 
