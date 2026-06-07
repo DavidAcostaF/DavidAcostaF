@@ -51,7 +51,9 @@ You can ping me on these social networks:
 ##### (Left are the most used)
 
 ---
-
+<!--
 | [![GitHub Streak](https://streak-stats.demolab.com?user=DavidAcostaF&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) | ![Stats](https://github-readme-stats.vercel.app/api?username=davidacostaf&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula) |
-| - | - |
+-->
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=DavidAcostaF&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DavidAcostaF&layout=compact&theme=dracula)
 </p>
